@@ -4,15 +4,15 @@
 LIS 2360:  Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+February 2, 2017
 
 ## Student Name:  
-(First and Last Name)
+Trista Reeves
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment explores some basic version control concepts. It also provides an introduction to Git and the advantages of GitHub.
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. A version control system is essential for developing and other projects.
+2. The distributed version control system is (arguably) one of the most convenient VCS people have the option to use when collaborating. 
+3. Git commands are relatively simple and allow you to store files locally, then remotely. 
